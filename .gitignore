@@ -1,0 +1,5 @@
+# Ignore everything
+User/*
+
+# Except prefs files
+!User/*.sublime-settings

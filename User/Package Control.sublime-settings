@@ -1,0 +1,27 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ColorPicker",
+		"Git",
+		"Github Tools",
+		"Hologram Doc Snippet",
+		"HTML-CSS-JS Prettify",
+		"Idiomatic-CSS-Comments-Snippets",
+		"Jade",
+		"JavaScript Snippets",
+		"JsFormat",
+		"Markdown Preview",
+		"MaxPane",
+		"Package Control",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray",
+		"Vintageous"
+	]
+}

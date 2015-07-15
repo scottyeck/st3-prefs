@@ -1,0 +1,10 @@
+{
+	"indent": "t",
+	"dasherize": false,
+	"old": false,
+	"path": "/opt/chefdk/bin:/Users/seckenthal/.chefdk/gem/ruby/2.1.0/bin:/opt/chefdk/embedded/bin:/opt/chefdk/bin:/Users/seckenthal/.chefdk/gem/ruby/2.1.0/bin:/opt/chefdk/embedded/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin",
+	"gemPath": "/Users/seckenthal/.chefdk/gem/ruby/2.1.0:/opt/chefdk/embedded/lib/ruby/gems/2.1.0",
+	"beautifyOnSave": false,
+	"inlineComments": false,
+	"newlineBetweenSelectors": true
+}
